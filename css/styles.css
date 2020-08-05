@@ -6,3 +6,8 @@
 .posts{
   color: blue;
 }
+
+p.posts {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
