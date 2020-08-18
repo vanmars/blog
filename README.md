@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a very simple website to practice using <div> elements to target in CSS to apply different styling to different sections of a website._
+_This is a very simple website to practice using _div_ elements to target in CSS to apply different styling to different sections of a website._
 
 
 ## Technologies Used
